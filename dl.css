@@ -12,7 +12,11 @@
         transform: scale(0.4);
     }
 }
-
+.dengl{
+    z-index: 9999;
+    font-size: 1px;
+    box-sizing: content-box;
+}
 .d-box{
     position: fixed;
     /* 自定义灯笼的位置 */
