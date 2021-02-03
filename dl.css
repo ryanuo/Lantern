@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-  }
+}
   /* 移动端显示/隐藏 /none/block，可自定义显示一个 */
   @media screen and (max-width: 970px) {
     .d-box1 {
