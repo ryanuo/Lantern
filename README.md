@@ -1,0 +1,43 @@
+## 1.查看效果
+
+![](https://7.dusays.com/2021/02/03/21a146a79535d.gif)
+
+## 2.自定义内容
+
+1. 可自定义灯笼`字体`
+```css
+/* 修改灯笼的字体 */
+.d-box .d1::after{
+    content: '牛年吉祥';}
+.d-box1 .d1::after{
+    content: '万事顺利';
+}
+```
+2. 可自定义灯笼`大小,位置`	
+```css
+.d-box{
+    position: fixed;
+    width: 330px;
+    /* 自定义灯笼的位置 */
+    right: 0;
+    top: 0;
+    /* 自定义灯笼大小 */
+    transform: scale(0.8);
+}
+.d-box1{
+    position: fixed;
+    width: 330px;
+    /* 自定义灯笼的位置 */
+    left: 0;
+    top: 0;
+    /* 自定义灯笼大小 */
+    transform: scale(0.8);
+}
+```
+3. 适配移动端，可设置`隐藏`，或者显示一个/调节`灯笼的大小`，`默认一个`
+4. 可自定义灯笼的`阴影颜色,大小`
+
+## 3. 博客地址
+
+- 原创[Harryの心阁](https://u.mr90.top)
+- 转载请标明出处，尊重作者 https://u.mr90.top/posts/8914/
