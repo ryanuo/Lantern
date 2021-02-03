@@ -1,6 +1,6 @@
 ## 1.查看效果
 
-![](https://7.dusays.com/2021/02/03/21a146a79535d.gif)
+![](https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/dl.png)
 
 ## 2.自定义内容
 
@@ -40,4 +40,4 @@
 ## 3. 博客地址
 
 - 原创[Harryの心阁](https://u.mr90.top)
-- 转载请标明出处，尊重作者 https://u.mr90.top/posts/8914/
+- 转载请标明出处，尊重原创作者 https://u.mr90.top/posts/8914/
