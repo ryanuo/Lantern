@@ -13,9 +13,8 @@
       transform: scale(0.4);
     }
   }
-  .dengl {
-    z-index: 999 !important;
-    font-size: 1px;
+  .d-box,.d-box1{
+    z-index: 9;
   }
   .d-box {
     position: fixed;
