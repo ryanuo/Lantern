@@ -131,11 +131,15 @@
     border: 5px solid #5c1713;
     border-bottom: 0;
   }
+  .d1 ul,.d2 ul{
+    margin: 0;
+    padding: 0;
+  }
   .d1 ul {
     position: relative;
-    top: 80px;
-    left: 13px;
-    width: 54px;
+    top: 98px;
+    left: 52px;
+    width: 45px;
     display: flex;
   }
   .d1 li {
@@ -155,7 +159,7 @@
     content: '';
     position: absolute;
     top: 47px;
-    left: 54px;
+    left: 16px;
     width: 5px;
     height: 5px;
     border-radius: 5px 5px 10px 10px;
@@ -165,7 +169,7 @@
   .d1 ul li span {
     position: absolute;
     top: 20px;
-    left: 55px;
+    left: 17px;
     width: 13px;
     height: 19px;
     border-radius: 14px;
@@ -227,8 +231,8 @@
   }
   .d2 ul {
     position: relative;
-    top: 121px;
-    left: 32px;
+    top: 135px;
+    left: 68px;
     width: 53px;
     display: flex;
   }
@@ -249,7 +253,7 @@
     content: '';
     position: absolute;
     top: 59px;
-    left: 53px;
+    left: 19px;
     width: 9px;
     height: 6px;
     border-radius: 5px 5px 10px 10px;
@@ -259,7 +263,7 @@
   .d2 ul li span {
     position: absolute;
     top: 21px;
-    left: 54px;
+    left: 19px;
     width: 18px;
     height: 17px;
     border-radius: 20px;
