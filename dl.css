@@ -70,6 +70,12 @@
     box-shadow: 0 5px 61px #ff1d1d;
   }
   .d1::after,
+  .d1::before,
+  .d2::after,
+  .d2::before{
+    box-sizing: content-box;
+  }
+  .d1::after,
   .d1::before {
     height: 82px;
     position: absolute;
