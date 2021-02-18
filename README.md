@@ -42,6 +42,12 @@
 1. 直接引用`index.html`中的body里面的内容
 2. 加入`dl.css`,新增`js`
 3. 第一个文件夹内的css是未使用css3`box-sizing:border-box`(不适配，不用看这个)
+4. 将下面的链接复制到页面即可使用
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rr210/Lantern@3.2/dl.css">
+<script src="https://cdn.jsdelivr.net/gh/Rr210/Lantern@3.2/dl.js"></script>
+```
 
 ## 4. 博客地址
 
