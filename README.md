@@ -44,9 +44,11 @@
 3. 第一个文件夹内的css是未使用css3`box-sizing:border-box`(不适配，不用看这个)
 4. 将下面的链接复制到页面即可使用
 
+- 在`header`标签里面加入`<div class="dengl"></div>`
+
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rr210/Lantern@3.2/dl.css">
-<script src="https://cdn.jsdelivr.net/gh/Rr210/Lantern@3.2/dl.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rr210/Lantern@3.3/dl.css">
+<script src="https://cdn.jsdelivr.net/gh/Rr210/Lantern@3.3/dl.js"></script>
 ```
 
 ## 4. 博客地址

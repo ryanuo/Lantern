@@ -1,4 +1,4 @@
 
-var heads = '<div class="dengl"><div class="d-box"><div class="d1"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div><div class="d2"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div></div><div class="d-box1"><div class="d1"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div><div class="d2"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div></div></div>'
-var headers = document.querySelector('header')
+var heads = '<div class="d-box"><div class="d1"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div><div class="d2"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div></div><div class="d-box1"><div class="d1"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div><div class="d2"><span></span><span><p></p></span><ul><li></li><li></li><li><span></span></li><li></li><li></li></ul></div></div>'
+var headers = document.querySelector('.dengl')
 headers.innerHTML = heads;
